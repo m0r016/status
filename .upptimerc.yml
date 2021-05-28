@@ -7,18 +7,20 @@ sites:
     url: https://www.m0r016.net
   - name: Blog
     url: https://blog.m0r016.net    
-  - name: Identity
+  - name: Portfolio
     url: https://identity.m0r016.net
-  - name: slum.cloud
+  - name: スラム丼
     url: https://slum.cloud
-  - name: pleroma
+  - name: Pleroma
     url: https://wut.m0r016.net
-  - name: pleroma feat. raspberrypi
+  - name: Pleroma feat. raspberrypi
     url: https://roma.m0r016.net
-  - name: mstdn.tentere.net
+  - name: Tere-Zombie
     url: https://mstdn.tentere.net
   - name: File server
     url: https://file.m0r016.net
+  - name: Upptime
+    url: https://status.m0r016.net    
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -28,7 +30,7 @@ status-website:
   logoUrl: https://avatars.githubusercontent.com/u/44355359
   name: m0r016 network status
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: m0r016 が運営しているサービスのステータスページです。メンテナンス状況などのご確認に活用ください。
+  introMessage: m0r016 が運営しているサービスのステータスページです。メンテナンス状況などの確認にご活用ください。
   navbar:
     - title: Status
       href: /
