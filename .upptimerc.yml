@@ -13,6 +13,8 @@ sites:
     url: https://slum.cloud
   - name: pleroma
     url: https://wut.m0r016.net
+  - name: pleroma feat. raspberrypi
+    url: https://roma.m0r016.net
   - name: mstdn.tentere.net
     url: https://mstdn.tentere.net
   - name: File server
