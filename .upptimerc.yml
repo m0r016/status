@@ -5,22 +5,31 @@ repo: status # The name of this repository
 sites:
   - name: Home
     url: https://www.m0r016.net
+    icon: https://github.com/m0r016/svg/blob/0cc9ccafc47167b10ecf98eb148e76e74b0e2b3d/home-solid.svg
   - name: Blog
     url: https://blog.m0r016.net    
+    icon: https://github.com/m0r016/svg/blob/0cc9ccafc47167b10ecf98eb148e76e74b0e2b3d/blog-solid.svg
   - name: Portfolio
     url: https://identity.m0r016.net
+    icon: https://github.com/m0r016/svg/blob/0cc9ccafc47167b10ecf98eb148e76e74b0e2b3d/pager-solid.svg
   - name: slum.cloud
     url: https://slum.cloud
+    icon: https://github.com/m0r016/svg/blob/0cc9ccafc47167b10ecf98eb148e76e74b0e2b3d/mastodon-brands.svg
   - name: Pleroma
     url: https://wut.m0r016.net
+    icon: https://github.com/m0r016/svg/blob/0cc9ccafc47167b10ecf98eb148e76e74b0e2b3d/pleroma.svg
   - name: Pleroma feat. raspberrypi
     url: https://roma.m0r016.net
+    icon: https://github.com/m0r016/svg/blob/0cc9ccafc47167b10ecf98eb148e76e74b0e2b3d/pleroma.svg
   - name: Tere-Zombie
     url: https://mstdn.tentere.net
+    icon: https://github.com/m0r016/svg/blob/0cc9ccafc47167b10ecf98eb148e76e74b0e2b3d/mastodon-brands.svg
   - name: File server
     url: https://file.m0r016.net
+    icon: https://github.com/m0r016/svg/blob/0cc9ccafc47167b10ecf98eb148e76e74b0e2b3d/file-solid.svg
   - name: Upptime
     url: https://status.m0r016.net    
+    icon: https://github.com/m0r016/svg/blob/ed5dc73f06cb9d91be590ac3c9943047b2974eaa/upptime.svg
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
