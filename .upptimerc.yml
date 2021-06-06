@@ -27,6 +27,9 @@ sites:
   - name: File server
     url: https://file.m0r016.net
     icon: https://github.com/m0r016/svg/blob/0cc9ccafc47167b10ecf98eb148e76e74b0e2b3d/file-solid.svg
+  - name: anx.slum.cloud
+    url: https://anx.slum.cloud
+    icon: https://github.com/m0r016/svg/blob/f9ed9b207ebb655e10b83648a28131757cc6aec3/server-solid.svg
   - name: Upptime
     url: https://status.m0r016.net    
     icon: https://github.com/m0r016/svg/blob/ed5dc73f06cb9d91be590ac3c9943047b2974eaa/upptime.svg
