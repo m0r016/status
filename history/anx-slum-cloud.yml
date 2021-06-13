@@ -1,7 +1,7 @@
 url: https://anx.slum.cloud
-status: up
-code: 200
-responseTime: 609
-lastUpdated: 2021-06-12T23:14:46.473Z
+status: down
+code: 502
+responseTime: 670
+lastUpdated: 2021-06-13T16:57:49.708Z
 startTime: Sun Jun 06 2021 12:28:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
