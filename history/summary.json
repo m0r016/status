@@ -22,10 +22,10 @@
     "url": "https://blog.m0r016.net",
     "icon": "https://github.com/m0r016/svg/blob/0cc9ccafc47167b10ecf98eb148e76e74b0e2b3d/blog-solid.svg",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
@@ -33,17 +33,19 @@
     "timeWeek": 153,
     "timeMonth": 238,
     "timeYear": 206,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-22": 2
+    }
   },
   {
     "name": "Portfolio",
     "url": "https://identity.m0r016.net",
     "icon": "https://github.com/m0r016/svg/blob/0cc9ccafc47167b10ecf98eb148e76e74b0e2b3d/pager-solid.svg",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 269,
@@ -51,7 +53,9 @@
     "timeWeek": 187,
     "timeMonth": 344,
     "timeYear": 269,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-22": 2
+    }
   },
   {
     "name": "slum.cloud",
@@ -79,10 +83,10 @@
     "url": "https://wut.m0r016.net",
     "icon": "https://github.com/m0r016/svg/blob/0cc9ccafc47167b10ecf98eb148e76e74b0e2b3d/pleroma.svg",
     "slug": "pleroma",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 584,
@@ -90,17 +94,19 @@
     "timeWeek": 545,
     "timeMonth": 600,
     "timeYear": 584,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-22": 1
+    }
   },
   {
     "name": "Pleroma feat. raspberrypi",
     "url": "https://roma.m0r016.net",
     "icon": "https://github.com/m0r016/svg/blob/0cc9ccafc47167b10ecf98eb148e76e74b0e2b3d/pleroma.svg",
     "slug": "pleroma-feat-raspberrypi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.73%",
     "time": 764,
@@ -109,6 +115,7 @@
     "timeMonth": 790,
     "timeYear": 764,
     "dailyMinutesDown": {
+      "2021-07-22": 1,
       "2021-06-23": 22,
       "2021-06-05": 40,
       "2021-05-31": 69,
@@ -138,10 +145,10 @@
     "url": "https://file.m0r016.net",
     "icon": "https://github.com/m0r016/svg/blob/0cc9ccafc47167b10ecf98eb148e76e74b0e2b3d/file-solid.svg",
     "slug": "file-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.92%",
     "time": 1473,
@@ -150,6 +157,7 @@
     "timeMonth": 1461,
     "timeYear": 1473,
     "dailyMinutesDown": {
+      "2021-07-22": 1,
       "2021-06-23": 22,
       "2021-06-05": 39
     }
@@ -160,11 +168,11 @@
     "icon": "https://github.com/m0r016/svg/blob/f9ed9b207ebb655e10b83648a28131757cc6aec3/server-solid.svg",
     "slug": "anx-slum-cloud",
     "status": "up",
-    "uptime": "96.31%",
+    "uptime": "96.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.56%",
-    "uptimeYear": "96.31%",
+    "uptimeYear": "96.35%",
     "time": 656,
     "timeDay": 595,
     "timeWeek": 625,
@@ -182,9 +190,9 @@
     "url": "https://status.m0r016.net",
     "icon": "https://github.com/m0r016/svg/blob/ed5dc73f06cb9d91be590ac3c9943047b2974eaa/upptime.svg",
     "slug": "upptime",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -194,6 +202,7 @@
     "timeMonth": 274,
     "timeYear": 226,
     "dailyMinutesDown": {
+      "2021-07-22": 0,
       "2021-06-08": 52
     }
   }
