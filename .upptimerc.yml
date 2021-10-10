@@ -18,14 +18,11 @@ sites:
   - name: Pleroma
     url: https://wut.m0r016.net
     icon: https://github.com/m0r016/svg/blob/0cc9ccafc47167b10ecf98eb148e76e74b0e2b3d/pleroma.svg
-  - name: Pleroma feat. raspberrypi
-    url: https://roma.m0r016.net
-    icon: https://github.com/m0r016/svg/blob/0cc9ccafc47167b10ecf98eb148e76e74b0e2b3d/pleroma.svg
   - name: Tere-Zombie
     url: https://mstdn.tentere.net
     icon: https://github.com/m0r016/svg/blob/0cc9ccafc47167b10ecf98eb148e76e74b0e2b3d/mastodon-brands.svg
-  - name: File server
-    url: https://file.m0r016.net
+  - name: Object Storage (Minio)
+    url: https://s3.m0r016.net
     icon: https://github.com/m0r016/svg/blob/0cc9ccafc47167b10ecf98eb148e76e74b0e2b3d/file-solid.svg
   - name: anx.slum.cloud
     url: https://anx.slum.cloud
