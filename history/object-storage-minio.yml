@@ -1,7 +1,7 @@
 url: https://s3-console.m0r016.net
-status: up
-code: 200
-responseTime: 696
-lastUpdated: 2021-11-25T23:16:00.233Z
+status: down
+code: 502
+responseTime: 547
+lastUpdated: 2021-11-26T16:35:23.323Z
 startTime: Sun Oct 10 2021 11:56:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
