@@ -138,9 +138,9 @@
     "url": "https://mstdn.tentere.net",
     "icon": "https://github.com/m0r016/svg/blob/0cc9ccafc47167b10ecf98eb148e76e74b0e2b3d/mastodon-brands.svg",
     "slug": "tere-zombie",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
@@ -150,6 +150,7 @@
     "timeMonth": 894,
     "timeYear": 1071,
     "dailyMinutesDown": {
+      "2022-04-10": 0,
       "2021-12-02": 219,
       "2021-12-01": 1390,
       "2021-09-08": 20
