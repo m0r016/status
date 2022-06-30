@@ -1,7 +1,7 @@
 url: https://status.m0r016.net
-status: up
-code: 200
-responseTime: 158
-lastUpdated: 2022-06-30T08:52:45.874Z
+status: down
+code: 403
+responseTime: 99
+lastUpdated: 2022-06-30T09:11:00.977Z
 startTime: Fri May 28 2021 14:42:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
